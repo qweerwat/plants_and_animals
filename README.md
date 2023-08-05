@@ -28,11 +28,12 @@ $ python3 main.py
 ```
 then you would need to specify the size of the spawn field and number of creatures. (every spiece is a quarter of total number)  
 every action, such as fight or death, would be in the log:
-` omni 303 ate prey 41  
+```
+omni 303 ate prey 41  
 predator 808 ate prey 113  
 predator 392 ate prey 137  
 423 unsuccessful attacked 193  
-`
+```
 as you can see, every creature is reffered by its species and number
 
 ---
