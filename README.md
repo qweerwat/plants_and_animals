@@ -26,7 +26,7 @@ to run the game:
 ```
 $ python3 main.py
 ```
-then you would need to specify the size of the spawn field and number of creatures. (every spiece is a quarter of total number)  
+then you would need to specify the size of the spawn field and number of creatures. (every spiece is a quarter of the total number)  
 every action, such as fight or death, would be in the log:
 ```
 omni 303 ate prey 41  
