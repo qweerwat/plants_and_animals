@@ -1,5 +1,5 @@
 # plants_and_animals
-a game emulates the life and surviving of defferent creatures  
+a game emulates the life and surviving of different creatures  
 
 there are 3 types (species) of animals: *prey, predator* and *omni*:
 - *preys* are herbivorous, they can eat only *plants*
